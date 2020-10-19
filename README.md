@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **Manon04/Manon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 😏Manon Ballatore😏 
+*📳06.44.72.89.01📳*
+*📧ballatoremanon@gmail.com📧*
+
