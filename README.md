@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 -->
 
 # 😏Manon Ballatore😏 
-*📳06.44.72.89.01📳*
 *📧ballatoremanon@gmail.com📧*
-
+![Hello Kitty](C:/Users/manon/Documents/GitHub/Manon04/hellokitty.jpg)
