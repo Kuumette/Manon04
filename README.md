@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 # 😏Manon Ballatore😏 
 *📧ballatoremanon@gmail.com📧*
-![Grand Theft Life](GTL.png "Grand Theft Life")
+![Grand Theft Life](GTL.png {.center})
