@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 # 😏Manon Ballatore😏 
 *📧ballatoremanon@gmail.com📧*
-![Hello Kitty](hellokitty.jpg "Hello Kitty")
+![Grand Theft Life](GTL.png "Grand Theft Life")
