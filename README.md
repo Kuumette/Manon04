@@ -16,4 +16,31 @@ Here are some ideas to get you started:
 
 # 😏Manon Ballatore😏 
 *📧ballatoremanon@gmail.com📧*
-![Grand Theft Life](GTL.png "GTL") {.center} 
+<!--Photo-->
+![Grand Theft Life](GTL.png "GTL") 
+
+<!--Tableau-->
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+Texte normal suivi d’un [color=#26B260]texte coloré en vert[/color] dans un paragraphe.
+<!--Citation-->
+> Oh la belle prise !
+<!--couleur-->
+<span style="color:red">une élément</span>
+* un autre
+ * un sous élément
+ * un autre sous élément
+* un dernier élément
+
+1. élément un
+2. élément deux
+
+# Un grand titre
+## Un titre un peu moins grand
+### Un titre encore moins grand
+
+Aidez-vous avec [la documentation de Framasite](https://docs.framasoft.org/fr/grav/) !
