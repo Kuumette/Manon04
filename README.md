@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 # 😏Manon Ballatore😏 
 *📧ballatoremanon@gmail.com📧*
-![Hello Kitty](C:/Users/manon/Documents/GitHub/Manon04/hellokitty.jpg)
+![Hello Kitty](C:/Users/manon/Documents/GitHub/Manon04/hellokitty.jpg "Hello Kitty")
